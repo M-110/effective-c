@@ -1,0 +1,9 @@
+E:/Git/Books/EffectiveC/02_Objects_Functions_and_Types/cmake-build-debug/CMakeFiles/swap1.dir
+E:/Git/Books/EffectiveC/02_Objects_Functions_and_Types/cmake-build-debug/CMakeFiles/object_types.dir
+E:/Git/Books/EffectiveC/02_Objects_Functions_and_Types/cmake-build-debug/CMakeFiles/swap2.dir
+E:/Git/Books/EffectiveC/02_Objects_Functions_and_Types/cmake-build-debug/CMakeFiles/scope_example.dir
+E:/Git/Books/EffectiveC/02_Objects_Functions_and_Types/cmake-build-debug/CMakeFiles/alignment.dir
+E:/Git/Books/EffectiveC/02_Objects_Functions_and_Types/cmake-build-debug/CMakeFiles/storage.dir
+E:/Git/Books/EffectiveC/02_Objects_Functions_and_Types/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Git/Books/EffectiveC/02_Objects_Functions_and_Types/cmake-build-debug/CMakeFiles/exercises.dir
+E:/Git/Books/EffectiveC/02_Objects_Functions_and_Types/cmake-build-debug/CMakeFiles/rebuild_cache.dir

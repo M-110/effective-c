@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "E:/Git/Books/EffectiveC/GettingStarted/cmake-build-debug/CMakeFiles/GettingStarted.dir/embed.manifest"

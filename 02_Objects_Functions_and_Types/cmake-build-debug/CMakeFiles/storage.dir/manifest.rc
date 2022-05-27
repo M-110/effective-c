@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "E:/Git/Books/EffectiveC/02_Objects_Functions_and_Types/cmake-build-debug/CMakeFiles/storage.dir/embed.manifest"
